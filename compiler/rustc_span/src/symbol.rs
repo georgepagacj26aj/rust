@@ -1141,6 +1141,7 @@ symbols! {
         large_assignments,
         last,
         lateout,
+        layout_of_val,
         lazy_normalization_consts,
         lazy_type_alias,
         le,
